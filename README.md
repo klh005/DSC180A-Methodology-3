@@ -1,2 +1,2 @@
 # DSC180A-Methodology-3
-# Kliment Ho v1
+# Ho Kliment v1
